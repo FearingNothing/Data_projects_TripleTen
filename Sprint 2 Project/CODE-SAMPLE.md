@@ -1,6 +1,6 @@
 Project 2 SQL sample code.
 
-This preoject was performed on TripleTen's integrated dashboard, so no finished project is available, however I have provide my code for the project to showcase my skills.
+This project was performed on TripleTen's integrated dashboard, so no finished project is available, however I have provideD my code for several steps of the project to showcase my skills.
 
 Print the company_name field. Find the number of taxi rides for each taxi company for November 15-16, 2017, name the resulting field trips_amount and print it, too. Sort the results by the trips_amount field in descending order.
 
